@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Acredito Porque Testei-clone",
-    "currentPage": "adv.html",
+    "currentPage": "terms.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1496,7 +1496,7 @@
         }
       ]
     },
-    "page4.html": {
+    "terms.html": {
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Termos de uso",
