@@ -2169,6 +2169,33 @@ body {
 .cid-rn1aO34xVG B {
   color: #ffffff;
 }
+.cid-rn3FEFtfF2 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #232323;
+}
+.cid-rn3FEFtfF2 .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rn3FEFtfF2 .section-text {
+  padding: 2rem 0;
+  color: #232323;
+}
+.cid-rn3FEFtfF2 .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rn3FEFtfF2 .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rn3FEFtfF2 .section-text B {
+  color: #ffffff;
+}
 .cid-rn0LKKf92t .navbar {
   padding: .5rem 0;
   background: #5b686b;
