@@ -1830,16 +1830,28 @@ body {
   padding-bottom: 15px;
   background-color: #232323;
 }
-.cid-rmLeo7ICVJ {
-  padding-top: 135px;
-  padding-bottom: 0px;
-  background-image: url("../../../assets/images/01-backg-2-1366x768.png");
+.cid-rn17BywVqv {
+  background: #ffffff;
 }
-.cid-rmLeo7ICVJ P {
-  color: #767676;
+.cid-rn17BywVqv .image-block {
+  margin: auto;
+  width: 100% !important;
 }
-.cid-rmLeo7ICVJ I {
-  color: #0f7699;
+.cid-rn17BywVqv .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rn17BywVqv figcaption {
+  position: relative;
+}
+.cid-rn17BywVqv figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rn17BywVqv .image-block {
+    width: 100% !important;
+  }
 }
 .cid-rmLeXZenhH {
   padding-top: 90px;
