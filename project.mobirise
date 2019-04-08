@@ -28,7 +28,8 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
-        "#971414"
+        "#971414",
+        "#f20808"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -1064,7 +1065,7 @@
               }
             },
             ".section-text B": {
-              "color": "#ffffff"
+              "color": "#f20808"
             }
           },
           "_name": "content9",
